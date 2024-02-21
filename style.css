@@ -6,6 +6,7 @@
 body {
     height: 100vh;
     width: 100wh;
+    background: linear-gradient(blue, rgb(3, 78, 3));
 }
 
 div {
